@@ -9,4 +9,4 @@ spec:
       command:
         - ls -l
       args:
-        - "hello world!!!!!!!!!!!!!!osgnjh"
+        - /tmp
