@@ -7,6 +7,6 @@ spec:
     - name: echo
       image: ubuntu:18.04
       command:
-        - which
+        - hostname
       args:
-        - python
+        - -a
