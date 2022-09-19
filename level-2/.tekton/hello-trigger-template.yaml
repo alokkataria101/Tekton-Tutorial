@@ -18,6 +18,6 @@ spec:
           name: hello-pipeline
         params:
           - name: repository
-            value: $(params.repository)
+            value: "$(params.repository)"
           - name: branch
-            value: $(params.branch)
+            value: "$(params.branch)"
