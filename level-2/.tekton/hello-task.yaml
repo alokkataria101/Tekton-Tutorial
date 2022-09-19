@@ -16,3 +16,4 @@ spec:
         - echo
       args:
         - "hello world from $(inputs.params.repository):$(inputs.params.branch)"
+        
