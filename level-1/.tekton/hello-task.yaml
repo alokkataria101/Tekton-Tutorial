@@ -10,4 +10,4 @@ spec:
         #!/usr/bin/env python3
         #print("Hello from Python!")
         #print("Hello from Python!101")
-        ./hello.py
+        hello.py
