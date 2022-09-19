@@ -16,7 +16,7 @@ spec:
       spec:
         pipelineRef:
           name: hello-pipeline
-   apiVersion: tekton.dev/v1alpha1
+apiVersion: tekton.dev/v1alpha1
 kind: TriggerTemplate
 metadata:
   name: hello-trigger-template
