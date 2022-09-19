@@ -5,9 +5,7 @@ metadata:
 spec:
   steps:
     - name: echo
-      image: ubuntu:18.04
-      command:
-        - echo
-      args:
-        - "osgnjh101"
- 
+      image: python
+      script: |
+        #!/usr/bin/env python3
+        print("Hello from Python!")
