@@ -10,10 +10,4 @@ spec:
         - echo
       args:
         - "osgnjh101"
-    - name: echo
-      image: ubuntu:18.04
-      command:
-        - echo
-      args:
-        - "osgnjh108"
-        
+ 
