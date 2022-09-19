@@ -9,8 +9,4 @@ spec:
       script: |
         #!/usr/bin/env python3
         print("Hello from Python!")
-    - name: echo
-      image: python
-      script: |
-        #!/usr/bin/env python3
         print("Hello from Python!101")
